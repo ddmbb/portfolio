@@ -124,7 +124,7 @@ section {
 }
 
 .projectImage {
-  max-width: 100%;
+  width: 20%;
 }
 
 .projectName {
